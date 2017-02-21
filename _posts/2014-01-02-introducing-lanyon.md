@@ -24,11 +24,11 @@ There are no natural sand beaches along the coastline of the County. However, th
 ## Application Resources
 Tools used in this analysis include:
 
-<a href="https://rapidlasso.com/lastools/">LAStools Download</a>
+<a href="https://rapidlasso.com/lastools/">LAStools Download</a> - A system of tools used to classify, tile, convert, filter, raster, triangulate, contour, clip, and polygonize (or shape) LiDAR data
 
-<a href="http://www.saga-gis.org/en/index.html">SAGA-GIS</a>
+<a href="http://www.saga-gis.org/en/index.html">SAGA-GIS</a> - SAGA stands for System for Automated Geoscientific Analyses which is a  Geographic Information Systems (GIS) software designed to easily and effectively implement spatial algorithms
 
-<a href="http://www.esri.com/software/arcgis/explorer-desktop/download">ESRI ArcGIS</a>
+<a href="http://www.esri.com/software/arcgis/explorer-desktop/download">ESRI ArcGIS/ArcMap</a> - ArcMap is the central application used in ArcGIS. ArcMap is where you display and explore GIS datasets for your study area, assign symbology/coloration, and create map layouts for printing or publication. 
 
 ## Data Downloads
 
