@@ -34,10 +34,10 @@ Tools used in this analysis include:
 
 Data can be accessed through various websites, including but not limited to:
 
-<a href="http://www.dep.state.fl.us/geology/resources/research_resources.htm">Florida Department of Environmental Protection</a>
+<a href="http://www.dep.state.fl.us/geology/resources/research_resources.htm">Florida Department of Environmental Protection</a> - Florida Geological Survey Research Resources and Data
 
-<a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a>
+<a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a> - Downloadable Imagery, Land Cover, Elevation Data
 
-<a href="http://gis.citrusbocc.com/">Citrus County GIS</a>
+<a href="http://gis.citrusbocc.com/">Citrus County GIS</a> - Citrus County GIS webpage including data downloads and interactive webmaps
 
 Thanks for Stopping by! Please feel free to contact me with Questions or Concerns at ahyler@mail.usf.edu.
