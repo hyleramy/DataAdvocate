@@ -3,7 +3,7 @@ layout: post
 title: Introducing Effective Data
 ---
 
-<a><img src="http://i68.tinypic.com/2n8mqab.jpg" border="2" alt="Image and video hosting by TinyPic"></a>
+<a><img src="http://i68.tinypic.com/2n8mqab.jpg" border="4" alt="Image and video hosting by TinyPic"></a>
 
 
 As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis. This provides an effective foundation to assessing human ecological, environmental, climatic, and archeological research. The Area of interest in located in Citrus County, FL known as the "Square Lake."
