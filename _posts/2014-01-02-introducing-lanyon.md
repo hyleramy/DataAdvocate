@@ -5,18 +5,10 @@ title: Introducing Effective Data
 
 As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis enables an effective foundation to assessing human ecological, environmental, climatic, and archeological research.  
 
-### Built on Poole
+### Site Background
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
+### Technological Resources
 
 In addition to the features of Poole, Lanyon adds the following:
 
@@ -25,14 +17,9 @@ In addition to the features of Poole, Lanyon adds the following:
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
 * [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+### Downloads
 
-### Browser support
+Ecological Data can be accessed through various websites, including but not limited to:
+<a href="http://www.dep.state.fl.us/geology/resources/research_resources.htm">Florida Department of Environmental Protection</a>
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Thanks for Stopping by! Please feel free to contact me at ahyler@mail.usf.edu
