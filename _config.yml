@@ -7,7 +7,8 @@ permalink:           pretty
 # Setup
 title:               Data Advocate
 tagline:             'Assessing Benefits of Correct Data'
-description:         'A Look into Data Inefficiencies within Citrus County, FL'
+description:         <a href="http://tinypic.com?ref=30rmjrm" target="_blank"><img src="http://i67.tinypic.com/30rmjrm.png" border="0" alt="Image and video hosting by TinyPic"></a>
+                     'A Look into Data Inefficiencies within Citrus County, FL'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/DataAdvocate'
 paginate:            5
