@@ -36,4 +36,4 @@ Ecological Data can be accessed through various websites, including but not limi
 
 <a href="http://gis.citrusbocc.com/">Citrus County GIS</a>
 
-Thanks for Stopping by! Please feel free to contact me at ahyler@mail.usf.edu with Questions or Concerns.
+Thanks for Stopping by! Please feel free to contact me with Questions or Concerns at ahyler@mail.usf.edu.
