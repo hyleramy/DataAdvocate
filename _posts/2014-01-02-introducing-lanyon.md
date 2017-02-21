@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing Effective Data
 ---
 
-Amy is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis enables an effective foundation to assessing human ecological, environmental, climatic, and archeological research.  
 
 ### Built on Poole
 
