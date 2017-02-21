@@ -17,18 +17,12 @@ Citrus County consists of three general physiographic regions: Coastal, Central 
 There are no natural sand beaches along the coastline of the County. However, there is one man-made saltwater beach located on Fort Island Trail west of Crystal River. The communities of Hernando and Inverness host several freshwater beaches on the Tsala Apopka Chain of Lakes.The Tsala Apopka chain of lakes is 22 miles long covering 23,000 acres. The Withlacoochee River totals 45 miles of riverfront.
 
 
-### Technological Resources
+## Technological Resources
 
-In addition to the features of Poole, Lanyon adds the following:
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+## Downloads
 
-### Downloads
-
-Ecological Data can be accessed through various websites, including but not limited to:
+Data can be accessed through various websites, including but not limited to:
 
 <a href="http://www.dep.state.fl.us/geology/resources/research_resources.htm">Florida Department of Environmental Protection</a>
 
