@@ -11,6 +11,8 @@ description:         <a href="http://gis.citrusbocc.com/index.html" target="_bla
                      Advocating for Hydrological Data Efficiencies in Citrus County, FL
 url:                 http://lanyon.getpoole.com
 baseurl:             '/DataAdvocate'
+abouturl:            '/About' 
+sqlakeurl:           '/
 paginate:            5
 
 # About/contact
