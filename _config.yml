@@ -12,7 +12,8 @@ description:         <a href="http://gis.citrusbocc.com/index.html" target="_bla
 url:                 http://lanyon.getpoole.com
 baseurl:             '/DataAdvocate'
 abouturl:            '/About' 
-sqlakeurl:           '/Hydro'
+analysisurl:         '/Analysis'
+
 paginate:            5
 
 # About/contact
