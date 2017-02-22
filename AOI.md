@@ -2,10 +2,12 @@
 layout: default
 title: Home
 ---
+
+<p align="center">  <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a></p>
+
 ## Area of Interest
 ### Citrus County's Square Lake
 
-<p align="center">  <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a></p>
 
 Citrus County, FL is home of a recently discovered Square Lake. As this is an amazing ecological discovery, there is no way the data used in the production of this information could have been compromised. Wrong. 
 
