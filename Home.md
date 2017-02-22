@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: Advocating for Efficient Hydrological Data in Citrus County, FL
 ---
 
