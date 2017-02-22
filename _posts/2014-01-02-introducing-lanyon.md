@@ -1,5 +1,7 @@
----layout: default
-title: Home---
+---
+layout: default
+title: Home
+---
 
 # The Square Lake
 
