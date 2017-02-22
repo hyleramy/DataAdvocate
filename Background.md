@@ -23,7 +23,8 @@ There are no natural sand beaches along the coastline of the County. However, th
   <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">  
 </p>
 
-Citrus County Coordinate System: 
+Citrus County Coordinate System:
+
 Projected Coordinate System: NAD_1983_HARN_StatePlane_Florida_West_FIPS_0902_Feet
 Projection: Transverse_Mercator
 False_Easting: 656166.66666667
