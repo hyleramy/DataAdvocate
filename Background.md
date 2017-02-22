@@ -7,7 +7,9 @@ title: Background
   </p>
   
 # Site Background
-##Citrus County, FL
+
+## Citrus County, FL
+
 ### "The Gem of Florida's Nature Coast"
 
 Citrus County, located on "Florida's Nature Coast", is located 70 miles north of Tampa and 60 miles northwest of Orlando, along Florida's west-central coast and the Gulf of Mexico.The surrounding counties include Levy to the north and northwest, Marion to the northeast, Sumter to the east and southeast, and Hernando to the south. 
