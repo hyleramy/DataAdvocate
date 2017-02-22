@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: Analysis
 ---
-This Analysis Includes
+ANALYSIS
 
 <body class="theme-base-0d"></body>
