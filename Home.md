@@ -31,7 +31,7 @@ Data can be accessed through various websites, including but not limited to:
 
 <a href="http://gis.citrusbocc.com/">Citrus County GIS</a> - Citrus County GIS webpage including data downloads and interactive webmaps
 
-## Contact Information
+## 
 <p align="center">
   Thanks for Stopping by!
   </p>
