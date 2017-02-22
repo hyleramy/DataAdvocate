@@ -6,6 +6,10 @@ title: Background
   <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
   </p>
   
+  <p align="center">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223636.2304141446!2d-82.62439560050383!3d28.85921455924032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e80cd51b085c7d%3A0xb945502a70834282!2sCitrus+County%2C+FL!5e0!3m2!1sen!2sus!4v1487770430410" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </p>
+  
 As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis. This provides an effective foundation to assessing human ecological, environmental, climatic, and archeological research. The Area of interest in located in Citrus County, FL known as the "Square Lake." The hydrology analysis utilized software to assess the ground points of the "Square Lake" to determine whether it was classified as ground or hydrology.
 
 
