@@ -3,7 +3,11 @@ layout: default
 title: Assessment
 ---
 # Project Assessment
-## Data Conflict
-<a href="http://tinypic.com?ref=9k0xf8" target="_blank"><img src="http://i66.tinypic.com/9k0xf8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Assessing the variability and characteristics of the Square Lake area requires the use of multiple applications. In this study, LAStools, SAGA-GIS, and ArcGIS were utilized throughout this assessment to evaluate the characteristics of this area.
+
+
+
+
 
 <body class="theme-base-0d"></body>
