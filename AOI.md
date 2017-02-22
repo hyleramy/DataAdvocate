@@ -2,14 +2,16 @@
 layout: default
 title: Home
 ---
-# Area of Interest
-## Citrus County's Square Lake
+## Area of Interest
+### Citrus County's Square Lake
 
-As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis. This provides an effective foundation to assessing human ecological, environmental, climatic, and archeological research. The Area of interest in located in Citrus County, FL known as the "Square Lake." The hydrology analysis utilized software to assess the ground points of the "Square Lake" to determine whether it was classified as ground or hydrology.
+<p align="center">  <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a></p>
 
-<p align="center">
-  <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a>
-</p>
+Citrus County, FL is home of a recently discovered Square Lake. As this is an amazing ecological discovery, there is no way the data used in the production of this information could have been compromised. Wrong. 
+
+Data can be compromised over time. In this case, the hydrology data layer created using ESRI's ArcMap interface was modified in 2002 to reflect the hydrology within Section 6, Township 20, Range 21 incorrectly. Although the intent may have been formed by utilizing historical section files and large paper maps.
+
+
 
 
 <body class="theme-base-0d"></body>
