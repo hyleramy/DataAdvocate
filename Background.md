@@ -24,25 +24,4 @@ There are no natural sand beaches along the coastline of the County. However, th
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223636.2304141446!2d-82.62439560050383!3d28.85921455924032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e80cd51b085c7d%3A0xb945502a70834282!2sCitrus+County%2C+FL!5e0!3m2!1sen!2sus!4v1487770430410" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   </p>
 
-## Application Resources
-Tools used in this analysis include:
-
-<a href="https://rapidlasso.com/lastools/">LAStools Download</a> - A system of tools used to classify, tile, convert, filter, raster, triangulate, contour, clip, and polygonize (or shape) LiDAR data
-
-<a href="http://www.saga-gis.org/en/index.html">SAGA-GIS</a> - SAGA stands for System for Automated Geoscientific Analyses which is a  Geographic Information Systems (GIS) software designed to easily and effectively implement spatial algorithms
-
-<a href="http://www.esri.com/software/arcgis/explorer-desktop/download">ESRI ArcGIS/ArcMap</a> - ArcMap is the central application used in ArcGIS. ArcMap is where you display and explore GIS datasets for your study area, assign symbology/coloration, and create map layouts for printing or publication. 
-
-## Data Downloads
-
-Data can be accessed through various websites, including but not limited to:
-
-<a href="http://www.dep.state.fl.us/geology/resources/research_resources.htm">Florida Department of Environmental Protection</a> - Florida Geological Survey Research Resources and Data
-
-<a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a> - Downloadable Imagery, Land Cover, Elevation Data
-
-<a href="http://gis.citrusbocc.com/">Citrus County GIS</a> - Citrus County GIS webpage including data downloads and interactive webmaps
-
-Thanks for Stopping by! Please feel free to contact me with Questions or Concerns at ahyler@mail.usf.edu.
-
 <body class="theme-base-0d"></body>
