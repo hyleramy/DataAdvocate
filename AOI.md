@@ -4,8 +4,8 @@ title: Home
 ---
 
 <p align="center">
- <a href="http://tinypic.com?ref=evc7sx" target="_blank"><img src="http://i66.tinypic.com/evc7sx.jpg" border="0" alt="Image and video hosting by TinyPic"></a> 
-</p>
+<a href="http://tinypic.com?ref=mrd8x1" target="_blank"><img src="http://i66.tinypic.com/mrd8x1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+ </p>
 
 ## Area of Interest
 ### Citrus County's Square Lake
