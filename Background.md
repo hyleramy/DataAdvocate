@@ -21,30 +21,18 @@ There are no natural sand beaches along the coastline of the County. However, th
 For use in ArcMap:
 
 Citrus County Coordinate System: 
-
 Projected Coordinate System: NAD_1983_HARN_StatePlane_Florida_West_FIPS_0902_Feet
-
 Projection: Transverse_Mercator
-
 False_Easting: 656166.66666667
-
 False_Northing: 0.00000000
-
 Central_Meridian: -82.00000000
-
 Scale_Factor: 0.99994118
-
 Latitude_Of_Origin: 24.33333333
-
 Linear Unit:  Foot_US
 
-
 Geographic Coordinate System: GCS_North_American_1983_HARN
-
 Datum:  D_North_American_1983_HARN
-
 Prime Meridian:  Greenwich
-
 Angular Unit:  Degree
 
 
