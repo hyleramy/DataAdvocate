@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<p align="center">  
-<a href="http://tinypic.com?ref=33m1hki" target="_blank"><img src="http://i65.tinypic.com/33m1hki.gif" border="0" alt="Image and video hosting by TinyPic"></a>
+<p align="center">
+  <a href="http://tinypic.com?ref=6f6teb" target="_blank"><img src="http://i67.tinypic.com/6f6teb.gif" border="0" alt="Image and video hosting by TinyPic"></a>
 </p>
 
 ## Area of Interest
