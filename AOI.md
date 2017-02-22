@@ -31,7 +31,7 @@ Here is an example of the data discrepancy compromising the outcome of this area
 
 Geospatial Land Use Discrepancy:
 
-Below is a depiction of out current zoning designations. This void is countinuous throughout all effected layers. After noticing this error 3 years ago, Ive been on the hunt for an answer. 
-
 <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a>
 <body class="theme-base-0d"></body>
+
+This depiction is a screen shot of our current zoning designations. The void is countinuous throughout all effected layers. After noticing this error 3 years ago, Ive been on the hunt for an answer further requiring a ground assessment. Variabilities in elevation and classifying LiDAR point clouds can establish a better understanding on how this area is characterized.
