@@ -31,9 +31,10 @@ Data can be accessed through various websites, including but not limited to:
 
 <a href="http://gis.citrusbocc.com/">Citrus County GIS</a> - Citrus County GIS webpage including data downloads and interactive webmaps
 
-### Contact Information
+## Contact Information
 <p align="center">
   Thanks for Stopping by!
+  
   Please feel free to contact me, Amy E. Hyler with Questions or Concerns at ahyler@mail.usf.edu
 </p>
 
