@@ -12,6 +12,8 @@ description:         <a href="http://gis.citrusbocc.com/index.html" target="_bla
 url:                 http://lanyon.getpoole.com
 baseurl:             '/DataAdvocate'
 analysis:            '/DataAdvocate/Analysis'
+challenages:         '/DataAdvocate/Challenges'
+assessment:          '/DataAdvocate/Assessment'
 
 paginate:            5
 
