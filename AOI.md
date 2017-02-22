@@ -7,6 +7,9 @@ title: Home
 <a href="http://tinypic.com?ref=anyig" target="_blank"><img src="http://i64.tinypic.com/anyig.gif" border="0" alt="Image and video hosting by TinyPic"></a>
 </p>
 
+[IMG]http://i64.tinypic.com/anyig.gif[/IMG]
+
+
 ## Area of Interest
 ### Citrus County's Square Lake
 
@@ -22,4 +25,6 @@ Land Development Code Maps:
 
 Here is an example of the data discrepancy compromising the outcome of this area. Within Section 6, Township 20, Range 21, you'll notice the SE quater section in red (left image) appears to be within Lake Tsala Apopka; the SE quarter section is zoomed in (right image) appearing to actually have land zoned Low Intensity Coastal & LAkes (CL). This is only one example of the research procedure required to assess the area to determine whether it is hydrology or land.
 
+### Geographical Land Use Discrepancy
+<a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a>
 <body class="theme-base-0d"></body>
