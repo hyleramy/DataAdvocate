@@ -12,7 +12,7 @@ description:         <a href="http://gis.citrusbocc.com/index.html" target="_bla
 url:                 http://lanyon.getpoole.com
 baseurl:             '/DataAdvocate'
 home:                '/DataAdvocate/Home'
-background:          '/DataAdvocate/Background
+background:          '/DataAdvocate/Background'
 analysis:            '/DataAdvocate/Analysis'
 assessment:          '/DataAdvocate/Assessment'
 
