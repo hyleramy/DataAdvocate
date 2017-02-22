@@ -6,8 +6,6 @@ title: Background
   <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
   </p>
   
-# Site Background
-
 ## Citrus County, FL
 
 ### "The Gem of Florida's Nature Coast"
