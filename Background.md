@@ -2,10 +2,11 @@
 layout: default
 title: Background
 ---
-<p align="center">
-  <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
-  </p>
-  
+
+<p align="center">  
+  <a href="http://tinypic.com?ref=2n8mqab" target="_blank"><img src="http://i68.tinypic.com/2n8mqab.jpg" border="0" alt="Image and video hosting by TinyPic"></a>  
+</p>
+
 ## Citrus County, FL
 
 ### "The Gem of Florida's Nature Coast"
@@ -18,7 +19,9 @@ Citrus County consists of three general physiographic regions: Coastal, Central 
 
 There are no natural sand beaches along the coastline of the County. However, there is one man-made saltwater beach located on Fort Island Trail west of Crystal River. The communities of Hernando and Inverness host several freshwater beaches on the Tsala Apopka Chain of Lakes.The Tsala Apopka chain of lakes is 22 miles long covering 23,000 acres. The Withlacoochee River totals 45 miles of riverfront.
 
-For use in ArcMap:
+<p align="center">  
+  <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">  
+</p>
 
 Citrus County Coordinate System: 
 Projected Coordinate System: NAD_1983_HARN_StatePlane_Florida_West_FIPS_0902_Feet
