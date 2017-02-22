@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-## The Square Lake
+# The Square Lake
 
 <p align="center">
   <a href="http://tinypic.com?ref=w048zp" target="_blank"><img src="http://i67.tinypic.com/w048zp.gif" border="0" alt="Image and video hosting by TinyPic"></a>
