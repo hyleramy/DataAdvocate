@@ -6,7 +6,8 @@ title: Background
   <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
   </p>
   
-## Site Background - Citrus County, FL
+# Site Background
+##Citrus County, FL
 ### "The Gem of Florida's Nature Coast"
 
 Citrus County, located on "Florida's Nature Coast", is located 70 miles north of Tampa and 60 miles northwest of Orlando, along Florida's west-central coast and the Gulf of Mexico.The surrounding counties include Levy to the north and northwest, Marion to the northeast, Sumter to the east and southeast, and Hernando to the south. 
