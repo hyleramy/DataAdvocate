@@ -34,7 +34,7 @@ Data can be accessed through various websites, including but not limited to:
 
 <p align="center">
 
-### Contact Information
+## Contact Information
 
   Thanks for Stopping by!
   Please feel free to contact me, Amy E. Hyler with Questions or Concerns at ahyler@mail.usf.edu
