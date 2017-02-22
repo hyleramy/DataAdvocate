@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Citrus County Hydrology Data
 ---
 
