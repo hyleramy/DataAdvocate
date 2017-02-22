@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Analysis
 ---
-ANALYSIS
+## ANALYSIS
+
 
 <body class="theme-base-0d"></body>
