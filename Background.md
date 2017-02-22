@@ -1,8 +1,9 @@
 ---
-title: Citrus County Hydrology Data
+layout: default
+title: Background
 ---
 <p align="center">
-  <img width="265" height="267" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
+  <img width="250" height="255" src="http://cravenrealty.com/wp-content/uploads/2014/11/citrus_county_florida_logo.gif">
   </p>
   
 As datasets become publically available, the importance of having correct data ensures the competance and performance of analysis. This provides an effective foundation to assessing human ecological, environmental, climatic, and archeological research. The Area of interest in located in Citrus County, FL known as the "Square Lake." The hydrology analysis utilized software to assess the ground points of the "Square Lake" to determine whether it was classified as ground or hydrology.
