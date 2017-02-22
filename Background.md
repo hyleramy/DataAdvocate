@@ -2,12 +2,11 @@
 layout: default
 title: Background
 ---
+## Citrus County, FL
 
 <p align="center">  
   <a href="http://tinypic.com?ref=2n8mqab" target="_blank"><img src="http://i68.tinypic.com/2n8mqab.jpg" border="0" alt="Image and video hosting by TinyPic"></a>  
 </p>
-
-## Citrus County, FL
 
 ### "The Gem of Florida's Nature Coast"
 
