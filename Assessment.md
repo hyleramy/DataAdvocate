@@ -9,7 +9,7 @@ Assessing the variability and characteristics of the Square Lake area requires t
 ## ESRI Software
 
 
-<a href="http://tinypic.com?ref=md145u" target="_blank"><img src="http://i67.tinypic.com/md145u.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=acppar" target="_blank"><img src="http://i63.tinypic.com/acppar.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=21ay2yo" target="_blank"><img src="http://i65.tinypic.com/21ay2yo.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=4lspw0" target="_blank"><img src="http://i67.tinypic.com/4lspw0.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=4lspw0" target="_blank"><img src="http://i67.tinypic.com/4lspw0.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=md145u" target="_blank"><img src="http://i67.tinypic.com/md145u.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=21ay2yo" target="_blank"><img src="http://i65.tinypic.com/21ay2yo.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=acppar" target="_blank"><img src="http://i63.tinypic.com/acppar.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 ## LAStools
 
