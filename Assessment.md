@@ -8,11 +8,19 @@ Assessing the variability and characteristics of the Square Lake area requires t
 
 ## ESRI Software
 
+### ArcMap
+
+The following images are created through ESRI's ArcMap program. The point cloud .las file downloaded from NOAA was imported into a .las database created using ArcCatalog. When adding this file to the geodatabase, statistics are automatically calculated for this raw data and configured to the specs provided. 
+* Image (A) is raw point file for the site of interest identified in red
+* Image (B) is the aerial image use as a land classification cross reference
+* Image (C) is the hillshade created from the .las file DEM
+* Image (D) is the DEM created overlaying the hillshade for better visualization
+
 <p align="center"> 
  <a href="http://tinypic.com?ref=1673sjl" target="_blank"><img src="http://i65.tinypic.com/1673sjl.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
- </p>
- 
- <a href="http://tinypic.com?ref=4lspw0" target="_blank"><img src="http://i67.tinypic.com/4lspw0.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=md145u" target="_blank"><img src="http://i67.tinypic.com/md145u.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=21ay2yo" target="_blank"><img src="http://i65.tinypic.com/21ay2yo.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://tinypic.com?ref=acppar" target="_blank"><img src="http://i63.tinypic.com/acppar.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+</p>
+
+As you can see by this visualization, the elevation is noticably lower in the green areas and higher in the red. For this site in Florida, the surface is very low and flat making it difficult to determine ground or hydrology through visualization. Further analysis must be assessed to evaluate the area and extract bare-earth points to classify ground versus hydrology.
 
 ## LAStools
 
@@ -43,6 +51,8 @@ When we zoom into the extracted point cloud, you'll notice the differences in el
 <p align="center"> 
   <a href="http://tinypic.com?ref=t6p9tw" target="_blank"><img src="http://i66.tinypic.com/t6p9tw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 </p>
+
+Although this method successfully extracts ground points from the .las data set, further evaluation must be execuated to ensure the consistency of spatial data. The sections surrounding this "Square Lake" should also be looked at to determine whether the surrounding area is consistent with these findings. Since this is a good foundation toward understanding the geography of the area, the data obtain imposes challenges with the NOAA data classification (e.g. two classifications: ground & road).
 
 
 
