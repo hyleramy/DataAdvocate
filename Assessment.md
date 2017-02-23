@@ -54,6 +54,8 @@ When we zoom into the extracted point cloud, you'll notice the differences in el
 
 Although this method successfully extracts ground points from the .las data set, further evaluation must be execuated to ensure the consistency of spatial data. The sections surrounding this "Square Lake" should also be looked at to determine whether the surrounding area is consistent with these findings. Since this is a good foundation toward understanding the geography of the area, the data obtain imposes challenges with the NOAA data classification (e.g. two classifications: ground & road).
 
+It is important to understand vulnerabilities in data acquisition. The original .las dataset downloaded from NOAA is compromised due to it only having two classifications. By utilizing LAStools to extract the desired variables, we are able to determine ground points within the area. This established a foundation toward further hydrological modeling using other tools to assess variablity and efficiency in the data. For the purpose of this study, we have determined the site is in fact ground area and can presume this may be characterized as wetlands rather than hydro causing the historical data maps established in the early 1990's to be compromised and requiring a modern approach to efficiently assess this data.
+
 
 
 
