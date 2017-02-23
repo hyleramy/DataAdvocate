@@ -5,13 +5,13 @@ title: Home
 
 ## Area of Interest
 
-<p align="center">
-  <a href="http://tinypic.com?ref=mrd8x1" target="_blank"><img src="http://i66.tinypic.com/mrd8x1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-</p>
-
 ### Citrus County's Square Lake
 
 Citrus County, FL is home of a recently discovered Square Lake located at the South Eastern portion of the county noticable in the Land Use Map depicted above. As this is an amazing ecological discovery, there is no way the data used in the production of this information could have been compromised. Unfortnately, that is a false statement. 
+
+<p align="center">
+  <a href="http://tinypic.com?ref=mrd8x1" target="_blank"><img src="http://i66.tinypic.com/mrd8x1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+</p>
 
 Data can be compromised over time. In this case, the hydrology data layer created using ESRI's ArcMap interface was modified in 2002 to reflect the hydrology within Section 6, Township 20, Range 21 incorrectly. Although the intent may have been formed by utilizing historical section files and large paper maps, discrepancies arise through different resources.
 
